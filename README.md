@@ -30,10 +30,10 @@ C# · .NET Framework (WinForms) · System.IO.Ports · UDP sockets · GMap.NET ·
 ## Running
 1. Open `Astra Ground Station/arayüz okuma.sln` in Visual Studio.
 2. Build and run, select the COM ports for the rocket, payload and HYİ links, then press **Connect**.
-3. [Where the Unity build lives / how to run it]
+3. The Unity 3D viewer is a separate build; the app starts it automatically if it is present.
 
 ## Context
-Developed as part of the Astra Rocket Team avionics software ([TEKNOFEST years / roles]).
+Developed as part of the Astra Rocket Team avionics software for TEKNOFEST.
 The team placed **5th + Best Design Award (2024)**, **7th (2025)** and **9th (2026)** in the TEKNOFEST Rocket Competition.
 
 Author: **Özgün Türköz** · [LinkedIn](https://linkedin.com/in/ozgunturkozz)
